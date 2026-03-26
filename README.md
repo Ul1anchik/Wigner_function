@@ -15,7 +15,7 @@ of the emitter wave function. Our approach can easily be generalized to the othe
 and extended to scattering, decay, and annihilation processes, bringing tomographic methods of
 quantum optics to particle physics.
 
-Key words: Cherenkov radiation, phase space, evolved state, Wigner function, formation length,
-attosecond physics
+**Key words: Cherenkov radiation, phase space, evolved state, Wigner function, formation length,
+attosecond physics**
 
 <img width="1164" height="590" alt="image" src="https://github.com/user-attachments/assets/15b6b7df-0a15-4aab-a78e-18beb8d4e3cc" />
